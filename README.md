@@ -2,4 +2,4 @@
 
 ## Deep learning
 
-* [Batch normalization](./ioeffe2015/README.md)
+* [Batch normalization](./batch_norm_ioeffe2015.md)

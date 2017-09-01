@@ -4,4 +4,6 @@
 
 * The individual learning rates are calculated based on the first (mean) and second (variance) moments of the gradient of the objective with repect to each variable.
 
-* If there is a lot of variance in the gradient of a variable, we don't make a big step.
+* Mean over variance is similar to a signal to noise ratio. If the signal to noise ratio is small, we make a small step.
+
+* The value of the learning rate (alpha) is actually an (approximate) upper bound on the maximum step size (i.e., modification to the value of a variable) that we can make. So it's not so hard to choose its value.

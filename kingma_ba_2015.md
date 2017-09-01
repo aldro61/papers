@@ -1,4 +1,4 @@
-# Adam
+# Adam: A method for stochastic optimization
 
 * Adam calculates a different learning rate for each optimization variable.
 

@@ -1,6 +1,6 @@
 # Adam
 
-* Adam calcules a different learning rate for each optimization variable.
+* Adam calculates a different learning rate for each optimization variable.
 
 * The individual learning rates are calculated based on the first (mean) and second (variance) moments of the gradient of the objective with repect to each variable.
 

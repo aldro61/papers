@@ -8,10 +8,11 @@
 
 * The method jointly optmizes sentence selection and answer generation
 
-* Sentence selection: p(s | x, d), where x is a question and d is a document.
+* Sentence selection: p(s | x, d), where x is a question and d is a document. This is given by an attention model.
 
 * Answer generation: p(y | x, ^d), where ^d is the learned document summary.
 
+* In the attention model, they use the concatenated representations of a sentence and the query and then apply transformation ending with a softmax to get the probability.
 
 Points to:
 * Multi-level structured models for document- level sentiment classification.

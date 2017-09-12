@@ -22,6 +22,8 @@ Link: [http://www.aclweb.org/anthology/P17-1020](http://www.aclweb.org/anthology
 
 * When learning to predict antibiotic resistance, we could generate labels for distant supervision based on the presence/absence of resistance genes in genome chunks.
 
+* **Conclusions**: hard attention seems to produce better results than soft attention, but it takes longer to run. The bag-of-words and chunked-bag-of-words representation are decent coarse representations.
+
 ## Points to:
 * Multi-level structured models for document- level sentiment classification.
 * Rationalizing neural predictions (The one Dima suggested)

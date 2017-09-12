@@ -16,6 +16,10 @@
 
 * **Answer generation:** p(y | x, ^d), where ^d is the learned document summary.
 
+* The authors try both hard attention and soft attention. Hard attention must be trained using reinforcement learning (algo: REINFORCE), while soft attention can be trained end-to-end using gradients. They also use something distant supervision, where they produce labels for each sentence (1 if it contains the answer and 0 otherwise). They use something called curriculum learning where they start with distant supervision and transition to REINFORCE.
+
+* When learning to predict antibiotic resistance, we could generate labels for distant supervision based on the presence/absence of resistance genes in genome chunks.
+
 ## Points to:
 * Multi-level structured models for document- level sentiment classification.
 * Rationalizing neural predictions (The one Dima suggested)

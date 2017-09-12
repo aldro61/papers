@@ -8,7 +8,7 @@
 
 * The method jointly optmizes sentence selection and answer generation
 
-* Sentence selection: p(s | x, d), where x is a question and d is a document. This is given by an attention model. In the attention model, they use the concatenated representations of a sentence and the query and then apply transformation ending with a softmax to get the probability.
+* **Sentence selection:** p(s | x, d), where x is a question and d is a document. This is given by an attention model. In the attention model, they use the concatenated representations of a sentence and the query and then apply transformation ending with a softmax to get the probability.
 
 * **Hard attention:** given p(s | x, d), create a document summary by sampling one or many sentences without replacement according to the probability distribution and concatenating their representation.
 

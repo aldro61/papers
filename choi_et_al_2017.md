@@ -16,3 +16,4 @@
 Points to:
 * Multi-level structured models for document- level sentiment classification.
 * Rationalizing neural predictions (The one Dima suggested)
+* Zichao Yang, Diyi Yang, Chris Dyer, Xiaodong He, Alex Smola, and Eduard Hovy. 2016b. Hierarchical attention networks for document classification.

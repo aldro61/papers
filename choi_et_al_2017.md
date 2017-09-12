@@ -1,5 +1,7 @@
 # Coarse-to-Fine Question Answering for Long Documents
 
+Link: [http://www.aclweb.org/anthology/P17-1020](http://www.aclweb.org/anthology/P17-1020)
+
 * **Inspiration:** how a reader skims through a document and only reads important parts in details to answer a question.
 
 * **Overview:** The idea is to identify relevant pieces of a document using a coarse representation and then to detect detailed patterns using a fine representation.

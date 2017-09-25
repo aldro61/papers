@@ -20,3 +20,8 @@
 ### Things to look up
 
 * Beam search
+
+
+## Chemoinformatics
+
+* [Deep learning for computational chemistry (Review)](./goh_et_al_2017.md)

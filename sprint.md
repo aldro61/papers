@@ -1,7 +1,7 @@
 # Paper reading sprints
 
 
-I give myself 5 minutes to read a bunch a papers and extract the general ideas and findings. Then, if the paper seems relevant, I read the details at another time. For most papers, I just want an overview to keep track of the latest improvements in the fields. I think that this strategy will allow me to be better informed and reduce the number of tabs that are open in my Chrome Browser, while not being too time consuming.
+I browser through a bunch a papers, taking a maximum of 5 minutes (using a timer) to extract the general ideas and findings. Then, if the paper seems relevant, I read the details at another time. For most papers, I just want an overview to keep track of the latest improvements in the fields. I think that this strategy will allow me to be better informed and reduce the number of tabs that are open in my Chrome Browser, while not being too time consuming.
 
 
 ## October 21, 2017

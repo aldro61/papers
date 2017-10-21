@@ -65,7 +65,7 @@ I give myself 5 minutes to read a bunch a papers and extract the general ideas a
 ### Convolutional neural networks for structured omics: OmicsCNN and the OmicsConv layer
 
 * They propose a convolutional layer that can be applied to omics data
-*
+
 * Conv layers cannot generally be applied to this type of data since there is no definition of proximity (unlike in images, videos, graphs, etc.)
 
 * Need to embed omics data in a metric space

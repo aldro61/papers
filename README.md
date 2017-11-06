@@ -4,6 +4,7 @@
 
 ### Attention models
 
+* [Attention is all you need](./vaswani_et_al_2017.md)
 * [Initial paper on attention models](./bahdanau_et_al_2014.md)
 * [Coarse to fine](./bahdanau_et_al_2014.md)
 

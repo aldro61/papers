@@ -11,3 +11,5 @@ with class membership. The truth may be that its effect was masked by other vari
 > Tree structures may be unstable
 
 * They provide methods for ranking variables in chap 5
+
+* Advantages of tree methods is discussed in section 2.7

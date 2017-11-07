@@ -13,3 +13,5 @@ with class membership. The truth may be that its effect was masked by other vari
 * They provide methods for ranking variables in chap 5
 
 * Advantages of tree methods is discussed in section 2.7
+
+* The best way to compute variable importance is to consider surrogate splits, which also gives the importance of rules that are not used by the tree, based on their correlation with the rules used to split.

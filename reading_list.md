@@ -55,8 +55,9 @@ GENOME-WIDE ASSOCIATION STUDIES](https://arxiv.org/pdf/1710.10742.pdf)
 
 * [MetaPalette: a k-mer Painting Approach for Metagenomic Taxonomic Profiling and Quantification of Novel Strain Variation](http://msystems.asm.org/content/1/3/e00020-16)
 
+* [AtomNet: A Deep Convolutional Neural Network for Bioactivity Prediction in Structure-based Drug Discovery](https://arxiv.org/pdf/1510.02855.pdf)
 
-
+* Self-Normalizing Neural Networks (already in papers)
 
 
 ## Blog posts

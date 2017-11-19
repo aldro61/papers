@@ -59,6 +59,10 @@ GENOME-WIDE ASSOCIATION STUDIES](https://arxiv.org/pdf/1710.10742.pdf)
 
 * Self-Normalizing Neural Networks (already in papers)
 
+* REBAR: Low-variance, unbiased gradient estimates for discrete latent variable models (already in papers -- also read David's new paper)
+
+
+
 
 ## Blog posts
 

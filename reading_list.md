@@ -7,8 +7,6 @@ GENOME-WIDE ASSOCIATION STUDIES](https://arxiv.org/pdf/1710.10742.pdf)
 
 * [Accurate Robust and Efficient Error Estimation for Decision Trees](http://proceedings.mlr.press/v48/fan16.pdf)
 
-* [From Coarse to Fine : a Novel Way to Train Neural Networks](https://link.springer.com/chapter/10.1007/978-1-4471-2097-1_142)
-
 * [Coarse-to-fine trained multi-scale Convolutional Neural Networks for image classification](http://ieeexplore.ieee.org/document/7280542/)
 
 * [Uncertainty in deep learning (thesis)](http://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf)

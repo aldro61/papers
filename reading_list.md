@@ -41,6 +41,23 @@ GENOME-WIDE ASSOCIATION STUDIES](https://arxiv.org/pdf/1710.10742.pdf)
 
 * [SWISH: A SELF-GATED ACTIVATION FUNCTION](https://arxiv.org/pdf/1710.05941.pdf)
 
+* [Population Genomic Analysis of 1,777 Extended-Spectrum Beta-LactamaseProducing Klebsiella pneumoniae Isolates, Houston, Texas: Unexpected Abundance of Clonal Group 307](http://mbio.asm.org/content/8/3/e00489-17.full.pdf)
+
+* [Teaching Machines to Read and Comprehend](http://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf)
+
+* [Antibiotic efficacy — context matters](http://www.sciencedirect.com/science/article/pii/S1369527417300863)
+
+* [Bacterial genomics: Microbial GWAS coming of age](https://www.nature.com/articles/nmicrobiol201659)
+
+* [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/pdf/1502.03044.pdf)
+
+* [Unsupervised Learning by Predicting Noise](https://arxiv.org/pdf/1704.05310.pdf)
+
+* [MetaPalette: a k-mer Painting Approach for Metagenomic Taxonomic Profiling and Quantification of Novel Strain Variation](http://msystems.asm.org/content/1/3/e00020-16)
+
+
+
+
 
 ## Blog posts
 
@@ -48,7 +65,24 @@ GENOME-WIDE ASSOCIATION STUDIES](https://arxiv.org/pdf/1710.10742.pdf)
 
 * [A Cookbook for Machine Learning: Vol 1](http://www.inference.vc/design-patterns/)
 
+* [Dilated Convolutions and Kronecker Factored Convolutions](http://www.inference.vc/dilated-convolutions-and-kronecker-factorisation/)
+
+* [A post about k-mers - this time for taxonomy!](http://ivory.idyll.org/blog/2017-something-about-kmers.html)
+
+
+
+
+
 
 ## Videos
 
 * [Basic Mechanisms of Antibiotic Resistance and Gene Spread](https://www.youtube.com/watch?v=U7Dshq5Npdg)
+
+
+
+
+
+
+## Talks
+
+* [Identifying predictive biomarkers in high-dimensional genomic data from randomized clinical trials](http://members.cbio.mines-paristech.fr/~jvert/talks/170915smb/smb.pdf)

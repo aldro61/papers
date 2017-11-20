@@ -15,3 +15,4 @@ Antibiotic efficacy -- context matters
 Bottom-line:
   * In many cases, the antibiotic binding its target is not the cause of bacterial death. Inhibiting the target often creates a cascade of downstream events that eventually result in cell-death.
   * Many of the downstream processes can be influenced by external (environmental) factors, but this is currently barely understood.
+  * If we want data-driven discoveries to be better translatable to true clinical settings, we need data that is closer to the host.

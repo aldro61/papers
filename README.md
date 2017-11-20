@@ -26,3 +26,8 @@
 ## Chemoinformatics
 
 * [Deep learning for computational chemistry (Review)](./goh_et_al_2017.md)
+
+
+## Antibiotic resistance
+
+* [Antibiotic efficacy — context matters](./yang_et_al_2017.md)

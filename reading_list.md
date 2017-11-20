@@ -73,10 +73,6 @@ GENOME-WIDE ASSOCIATION STUDIES](https://arxiv.org/pdf/1710.10742.pdf)
 
 ## Videos
 
-* [Basic Mechanisms of Antibiotic Resistance and Gene Spread](https://www.youtube.com/watch?v=U7Dshq5Npdg)
-
-
-
 
 
 

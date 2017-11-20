@@ -8,6 +8,8 @@ Antibiotic efficacy -- context matters
 
 * Moreover, understanding the differences in microbial physiology between host metabolic environments and the nutrient rich conditions commonly used to study bacterial pathogens will be important for translating in vitro discoveries into clinical care. --- **In other words, we need to learn to predict antibiotic resistance based on labels that are closer to what goes on in the host's body. The environment differs considerably and this could affect the efficacy of antibiotics.**
 
+* Antibiotic lethality is increasingly understood to be driven by active death processes resulting from both target inhibition and subsequent induction of stress responses.
+
 Bottom-line:
   * In many cases, the antibiotic binding its target is not the cause of bacterial death. Inhibiting the target often creates a cascade of downstream events that eventually result in cell-death.
   * Many of the downstream processes can be influenced by external (environmental) factors, but this is currently barely understood.

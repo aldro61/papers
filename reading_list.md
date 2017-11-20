@@ -60,8 +60,6 @@ GENOME-WIDE ASSOCIATION STUDIES](https://arxiv.org/pdf/1710.10742.pdf)
 
 ## Blog posts
 
-* [AlphaGo Zero - How and Why it Works](http://tim.hibal.org/blog/alpha-zero-how-and-why-it-works/)
-
 * [A Cookbook for Machine Learning: Vol 1](http://www.inference.vc/design-patterns/)
 
 * [Dilated Convolutions and Kronecker Factored Convolutions](http://www.inference.vc/dilated-convolutions-and-kronecker-factorisation/)

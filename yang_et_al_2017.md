@@ -1,4 +1,4 @@
-Antibiotic efficacy -- context matters
+# Antibiotic efficacy -- context matters
 
 * The primary targets and mechanisms of action for most bactericidal antibiotics have been identified and well-studied [1]; however, there is a growing appreciation that antibiotic lethality is a complex systems-level process that is sensitive to environmental factors.
 

@@ -31,3 +31,4 @@
 ## Antibiotic resistance
 
 * [Antibiotic efficacy — context matters](./yang_et_al_2017.md)
+* [Basic mechanisms of antibiotic resistance](basic_mechs_of_amr.md)

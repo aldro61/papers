@@ -72,7 +72,7 @@ GENOME-WIDE ASSOCIATION STUDIES](https://arxiv.org/pdf/1710.10742.pdf)
 
 * [A post about k-mers - this time for taxonomy!](http://ivory.idyll.org/blog/2017-something-about-kmers.html)
 
-
+* [Why I'm digging deep into Alzheimer's disease](https://www.gatesnotes.com/Health/Digging-Deep-Into-Alzheimers?WT.mc_id=20171119163311_Alzheimers_BG-LI&WT.tsrc=BGLI&linkId=44907215)
 
 
 

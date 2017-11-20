@@ -10,6 +10,8 @@ Antibiotic efficacy -- context matters
 
 * Antibiotic lethality is increasingly understood to be driven by active death processes resulting from both target inhibition and subsequent induction of stress responses.
 
+* Integration of these tools will enable identification of additional mechanistic details between primary target inhibition and subsequent lethality. -- This makes me think of Brendon Frey's idea of modelling the cell's behavior in response to a stimulus.
+
 Bottom-line:
   * In many cases, the antibiotic binding its target is not the cause of bacterial death. Inhibiting the target often creates a cascade of downstream events that eventually result in cell-death.
   * Many of the downstream processes can be influenced by external (environmental) factors, but this is currently barely understood.

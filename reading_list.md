@@ -70,6 +70,10 @@
 
 * [IMPLICIT CAUSAL MODELS FOR GENOME-WIDE ASSOCIATION STUDIES](https://arxiv.org/pdf/1710.10742.pdf)
 
+* [Efficient Multi-task chemogenomics for drug specificity prediction](https://www.biorxiv.org/content/early/2017/09/24/193391)
+
+* [CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning](https://arxiv.org/abs/1711.05225)
+
 
 
 ## Blog posts
@@ -79,6 +83,10 @@
 * [Dilated Convolutions and Kronecker Factored Convolutions](http://www.inference.vc/dilated-convolutions-and-kronecker-factorisation/)
 
 * [A post about k-mers - this time for taxonomy!](http://ivory.idyll.org/blog/2017-something-about-kmers.html)
+
+* [Advances in AI and ML are reshaping healthcare](https://techcrunch.com/2017/03/16/advances-in-ai-and-ml-are-reshaping-healthcare/)
+
+* [Playing the Beer Game Using Reinforcement Learning](https://beergameai.github.io/)
 
 
 

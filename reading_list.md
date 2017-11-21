@@ -39,6 +39,8 @@
 
 * [HIERARCHICAL REPRESENTATIONS FOR EFFICIENT ARCHITECTURE SEARCH](https://arxiv.org/pdf/1711.00436.pdf)
 
+* [MinimalRNN: Toward More Interpretable and Trainable Recurrent Neural Networks](https://arxiv.org/pdf/1711.06788.pdf)
+
 
 ### Machine learning (general)
 

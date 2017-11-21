@@ -1,25 +1,25 @@
 ## Papers
 
-* [IMPLICIT CAUSAL MODELS FOR
-GENOME-WIDE ASSOCIATION STUDIES](https://arxiv.org/pdf/1710.10742.pdf)
+### Deep learning
 
-* [HIERARCHICAL REPRESENTATIONS FOR EFFICIENT ARCHITECTURE SEARCH](https://arxiv.org/pdf/1711.00436.pdf)
 
-* [Accurate Robust and Efficient Error Estimation for Decision Trees](http://proceedings.mlr.press/v48/fan16.pdf)
+* [AtomNet: A Deep Convolutional Neural Network for Bioactivity Prediction in Structure-based Drug Discovery](https://arxiv.org/pdf/1510.02855.pdf)
 
-* [Coarse-to-fine trained multi-scale Convolutional Neural Networks for image classification](http://ieeexplore.ieee.org/document/7280542/)
+* Self-Normalizing Neural Networks (already in papers)
 
-* [Uncertainty in deep learning (thesis)](http://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf)
+* REBAR: Low-variance, unbiased gradient estimates for discrete latent variable models (already in papers -- also read David's new paper)
 
-* [Machine learning: novel bioinformatics approaches for combating antimicrobial resistance](https://www.ncbi.nlm.nih.gov/pubmed/28914640)
+* [An introduction to deep learning on biological sequence data: examples and solutions](https://academic.oup.com/bioinformatics/article-abstract/33/22/3685/4092933)
 
-* [Enabling Precision Cardiology Through Multiscale Biology and Systems Medicine (cited kover)](https://ac.els-cdn.com/S2452302X17300876/1-s2.0-S2452302X17300876-main.pdf?_tid=8cdd0d46-ca11-11e7-abf3-00000aacb35e&acdnat=1510756418_2653b605a37125b87db7046fed40b8c1)
+* [Teaching Machines to Read and Comprehend](http://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf)
 
-* [Predicting Transcription Factor Binding Sites with Convolutional Kernel Networks (cited kover)](https://hal.inria.fr/hal-01632912/document)
+* [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/pdf/1502.03044.pdf)
 
-* [The variability and reproducibility of whole genome sequencing technology for detecting resistance to anti-tuberculous drugs](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-016-0385-x)
+* [Unsupervised Learning by Predicting Noise](https://arxiv.org/pdf/1704.05310.pdf)
 
-* [Mutation and recombination in pathogen evolution: Relevance, methods and controversies](http://www.sciencedirect.com/science/article/pii/S1567134817303350)
+* [Bridging Nonlinearities and Stochastic Regularizers with Gaussian Error Linear Units](https://arxiv.org/pdf/1606.08415.pdf)
+
+* [SWISH: A SELF-GATED ACTIVATION FUNCTION](https://arxiv.org/pdf/1710.05941.pdf)
 
 * [Model-Agnostic Interpretability of Machine Learning](https://arxiv.org/abs/1606.05386)
 
@@ -33,28 +33,42 @@ GENOME-WIDE ASSOCIATION STUDIES](https://arxiv.org/pdf/1710.10742.pdf)
 
 * [The Consciousness Prior](https://arxiv.org/pdf/1709.08568.pdf)
 
+* [Coarse-to-fine trained multi-scale Convolutional Neural Networks for image classification](http://ieeexplore.ieee.org/document/7280542/)
+
+* [Uncertainty in deep learning (thesis)](http://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf)
+
+* [HIERARCHICAL REPRESENTATIONS FOR EFFICIENT ARCHITECTURE SEARCH](https://arxiv.org/pdf/1711.00436.pdf)
+
+
+### Machine learning (general)
+
+* [Accurate Robust and Efficient Error Estimation for Decision Trees](http://proceedings.mlr.press/v48/fan16.pdf)
+
+
+
+### Antibiotic resistance
+
 * [Antimicrobial resistance: the example of Staphylococcus aureus (low importance)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC154455/)
-
-* [Bridging Nonlinearities and Stochastic Regularizers with Gaussian Error Linear Units](https://arxiv.org/pdf/1606.08415.pdf)
-
-* [SWISH: A SELF-GATED ACTIVATION FUNCTION](https://arxiv.org/pdf/1710.05941.pdf)
 
 * [Population Genomic Analysis of 1,777 Extended-Spectrum Beta-LactamaseProducing Klebsiella pneumoniae Isolates, Houston, Texas: Unexpected Abundance of Clonal Group 307](http://mbio.asm.org/content/8/3/e00489-17.full.pdf)
 
-* [Teaching Machines to Read and Comprehend](http://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf)
+* [The variability and reproducibility of whole genome sequencing technology for detecting resistance to anti-tuberculous drugs](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-016-0385-x)
 
-* [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/pdf/1502.03044.pdf)
+* [Mutation and recombination in pathogen evolution: Relevance, methods and controversies](http://www.sciencedirect.com/science/article/pii/S1567134817303350)
 
-* [Unsupervised Learning by Predicting Noise](https://arxiv.org/pdf/1704.05310.pdf)
+* [Machine learning: novel bioinformatics approaches for combating antimicrobial resistance](https://www.ncbi.nlm.nih.gov/pubmed/28914640)
+
+
+
+### Bioinformatics
 
 * [MetaPalette: a k-mer Painting Approach for Metagenomic Taxonomic Profiling and Quantification of Novel Strain Variation](http://msystems.asm.org/content/1/3/e00020-16)
 
-* [AtomNet: A Deep Convolutional Neural Network for Bioactivity Prediction in Structure-based Drug Discovery](https://arxiv.org/pdf/1510.02855.pdf)
+* [Enabling Precision Cardiology Through Multiscale Biology and Systems Medicine (cited kover)](https://ac.els-cdn.com/S2452302X17300876/1-s2.0-S2452302X17300876-main.pdf?_tid=8cdd0d46-ca11-11e7-abf3-00000aacb35e&acdnat=1510756418_2653b605a37125b87db7046fed40b8c1)
 
-* Self-Normalizing Neural Networks (already in papers)
+* [Predicting Transcription Factor Binding Sites with Convolutional Kernel Networks (cited kover)](https://hal.inria.fr/hal-01632912/document)
 
-* REBAR: Low-variance, unbiased gradient estimates for discrete latent variable models (already in papers -- also read David's new paper)
-
+* [IMPLICIT CAUSAL MODELS FOR GENOME-WIDE ASSOCIATION STUDIES](https://arxiv.org/pdf/1710.10742.pdf)
 
 
 
@@ -65,9 +79,6 @@ GENOME-WIDE ASSOCIATION STUDIES](https://arxiv.org/pdf/1710.10742.pdf)
 * [Dilated Convolutions and Kronecker Factored Convolutions](http://www.inference.vc/dilated-convolutions-and-kronecker-factorisation/)
 
 * [A post about k-mers - this time for taxonomy!](http://ivory.idyll.org/blog/2017-something-about-kmers.html)
-
-* [Why I'm digging deep into Alzheimer's disease](https://www.gatesnotes.com/Health/Digging-Deep-Into-Alzheimers?WT.mc_id=20171119163311_Alzheimers_BG-LI&WT.tsrc=BGLI&linkId=44907215)
-
 
 
 
